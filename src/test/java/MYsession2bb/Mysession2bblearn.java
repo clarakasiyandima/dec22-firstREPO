@@ -1,4 +1,4 @@
-package MYsession2bb;
+package mysession2bb;
 
 import java.util.concurrent.TimeUnit;
 
